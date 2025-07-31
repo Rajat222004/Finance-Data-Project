@@ -45,9 +45,7 @@ This project focuses on performing exploratory data analysis (EDA) on stock pric
 2. Installing: pip install pandas matplotlib seaborn plotly cufflinks pandas-datareader
 3. Launch the jupiter notebook: jupyter notebook 03-Finance-Project.ipynb
 
-📬 Contact
-Have questions or feedback? Reach out via:
-📧 [mr.ratansharma12@gmail.com or GitHub]
+
 
 
 
